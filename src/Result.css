@@ -1,3 +1,5 @@
 .result {
   max-width: 550px;
+  background-color: white;
+  opacity: 0.8;
 }
